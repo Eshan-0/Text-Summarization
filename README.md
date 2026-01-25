@@ -105,8 +105,5 @@ Advanced QnA with transformers
 Eshan Chaudhari
 Final-Year B.Tech AI Student
 Aspiring Data Analyst & NLP Engineer
-
-⭐ If you like this project, consider starring the repository!
-
-
+## 📸 Application Preview
 <img width="1897" height="855" alt="streem lite app screen shot" src="https://github.com/user-attachments/assets/3d6d6b93-ffd0-4ca5-a220-2635d9a9c646" />

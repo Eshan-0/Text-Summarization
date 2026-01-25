@@ -108,6 +108,7 @@ Aspiring Data Analyst & NLP Engineer
 ⭐ If you like this project, consider starring the repository!
 
 
----<img width="1897" height="855" alt="streem lite app screen shot" src="https://github.com/user-attachments/assets/a2cff22c-60e8-48e3-bdfb-4e0adea71819" />
+---
+<img width="1897" height="855" alt="streem lite app screen shot" src="https://github.com/user-attachments/assets/eb938c5a-e628-47db-95c1-6159a9b7665d" />
 
 

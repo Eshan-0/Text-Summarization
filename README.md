@@ -51,6 +51,8 @@ This project demonstrates practical NLP techniques such as TF-IDF scoring, sente
 ---
 
 ## ⚙ Installation & Running the App
+<img width="1919" height="935" alt="Screenshot 2025-11-16 183409" src="https://github.com/user-attachments/assets/d824f788-b9e6-4335-b52a-4ca995db8100" />
+
 
 ### Step 1: Install dependencies
 
@@ -109,4 +111,3 @@ Aspiring Data Analyst & NLP Engineer
 
 
 ---
-<img width="1919" height="935" alt="Screenshot 2025-11-16 183409" src="https://github.com/user-attachments/assets/d824f788-b9e6-4335-b52a-4ca995db8100" />

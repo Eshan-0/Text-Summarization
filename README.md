@@ -1,4 +1,3 @@
-✅ COPY EVERYTHING BELOW INTO README.md
 # 📄 PDF Summarizer & Question Answering App using NLP
 
 A Streamlit-based Natural Language Processing application that extracts text from PDF documents, generates concise summaries, and allows users to ask intelligent questions based on the document content.
@@ -100,10 +99,5 @@ Export summary as PDF/Word
 
 Advanced QnA with transformers
 
-👨‍💻 Author
-
-Eshan Chaudhari
-Final-Year B.Tech AI Student
-Aspiring Data Analyst & NLP Engineer
 ## 📸 Application Preview
 <img width="1897" height="855" alt="streem lite app screen shot" src="https://github.com/user-attachments/assets/3d6d6b93-ffd0-4ca5-a220-2635d9a9c646" />

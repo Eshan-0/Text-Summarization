@@ -4,11 +4,6 @@ A Streamlit-based Natural Language Processing application that extracts text fro
 
 This project demonstrates practical NLP techniques such as TF-IDF scoring, sentence ranking, and semantic similarity.
 
----
-
-## 📸 Application Preview
-
-![PDF Summarizer Interface]
 
 ---
 

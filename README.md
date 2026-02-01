@@ -17,8 +17,6 @@ This project demonstrates practical NLP techniques such as TF-IDF scoring, sente
 - Question Answering using semantic similarity
 - Interactive Streamlit web interface
 
----
-
 ## 🧠 NLP Techniques Implemented
 
 - Sentence tokenization  
